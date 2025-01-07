@@ -1,0 +1,14 @@
+src/
+  ├── components/
+  │   ├── layout/
+  │   │   └── Header.jsx
+  │   ├── posts/
+  │   │   ├── PostCard.jsx
+  │   │   ├── PostForm.jsx
+  │   │   └── PostGrid.jsx
+  │   └── ui/
+  │       └── Button.jsx
+  ├── context/
+  │   └── PostContext.jsx
+  ├── App.jsx
+  └── main.jsx 
